@@ -3,7 +3,7 @@
 <h2>👨‍💻 Mern Stack Development Projects:</h2>
 
 - <b>Javascript Projects</b>
-  - [Tic Tac Toe Game Using Javascript](https://github.com/mahir21/TicTacToe)
+  - [Tic Tac Toe Game Using Javascript](https://mahir21.github.io/TicTacToe/)
   - [Form Validation Using Html, CSS & Javascript](https://mahir21.github.io/form-validation/)
 
 <h2> 🤳 Connect with me:</h2>
