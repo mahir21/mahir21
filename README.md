@@ -4,6 +4,7 @@
 
 - <b>Javascript Projects</b>
   - [Tic Tac Toe Game Using Javascript](https://mahir21.github.io/TicTacToe/)
+     - [Repository Link](https://github.com/mahir21/TicTacToeJS/tree/main)
   - [Form Validation Using Html, CSS & Javascript](https://mahir21.github.io/form-validation/)
     - [Repository Link](https://github.com/mahir21/form-validation)
   - [Live Weather Update Using Html, CSS & Javascript](http://127.0.0.1:5500/WeatherApp/index.html)
