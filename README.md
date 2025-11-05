@@ -1,6 +1,10 @@
 <h1>Hi, I'm Mahir! <br/><a href="https://github.com/mahir21">Mern Stack Developer</a></h1>
 
 <h2>👨‍💻 Mern Stack Development Projects:</h2>
+
+- <b>NYC Parking Violation Project</b>
+  - [Website Link](https://690b9be6f89ca083c73c843c--leafy-alfajores-4901a3.netlify.app/)
+  - [Repository Link](https://github.com/mahir21/nycParking)
   
 - <b>Main Project</b>
   - [Website Link](https://audio-shop-wk3n.vercel.app/)
